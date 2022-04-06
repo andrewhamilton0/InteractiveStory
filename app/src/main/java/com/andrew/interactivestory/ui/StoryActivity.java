@@ -1,11 +1,14 @@
-package com.andrew.interactivestory;
+package com.andrew.interactivestory.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.andrew.interactivestory.R;
+
 public class StoryActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
